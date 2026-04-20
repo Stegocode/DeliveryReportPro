@@ -1,0 +1,13 @@
+flask>=3.0.0
+flask-socketio>=5.3.6
+python-socketio>=5.10.0
+python-engineio>=4.8.0
+selenium>=4.18.0
+pandas>=2.2.0
+openpyxl>=3.1.2
+pdfplumber>=0.10.3
+requests>=2.31.0
+python-dotenv>=1.0.0
+cryptography>=42.0.0
+pyinstaller>=6.4.0
+pytest>=8.0.0
